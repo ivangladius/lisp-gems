@@ -1,1 +1,1 @@
-# lisp-gems
+Useful Common Lisp libraries ( WIP )
